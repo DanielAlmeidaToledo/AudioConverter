@@ -1,0 +1,6 @@
+# Environments
+.venv
+venv/
+
+# App
+/app/package.json
